@@ -1,0 +1,501 @@
+Name,Education,Skill,Certification,Job Role
+Person_1,BCA,HTML,Google IT Support,Software Developer
+Person_2,BSc Mathematics,Data Analysis,,Mathematician
+Person_3,BTech ECE,,Embedded Systems Certification,Electronics Engineer
+Person_4,BTech Civil,AutoCAD,Autodesk Certified Professional,Structural Engineer
+Person_5,BTech EE,Power Systems,Power Systems Certification,Electrical Engineer
+Person_6,BCA,CSS,Full Stack Web Certification,Web Developer
+Person_7,BTech EE,Control Systems,Power Systems Certification,Control Engineer
+Person_8,BSc Chemistry,Research,Lab Safety Certification,Lab Analyst
+Person_9,BSc Chemistry,Spectroscopy,Lab Safety Certification,Chemist
+Person_10,BTech Civil,Structural Analysis,,Structural Engineer
+Person_11,BTech EE,Control Systems,Certified Electrician,Control Engineer
+Person_12,BTech Mechanical,Manufacturing,SolidWorks Certification,Mechanical Engineer
+Person_13,BTech EE,Control Systems,Certified Electrician,Control Engineer
+Person_14,BTech EE,,Certified Electrician,Power Engineer
+Person_15,BSc Physics,Data Analysis,Research Methodology,Lab Assistant
+Person_16,BTech Mechanical,SolidWorks,,Manufacturing Engineer
+Person_17,BTech ECE,VHDL,Embedded Systems Certification,Electronics Engineer
+Person_18,BSc Mathematics,Statistics,Actuarial Certification,Statistician
+Person_19,BSc Chemistry,Spectroscopy,Analytical Chemistry Certification,Chemist
+Person_20,BSc Mathematics,R Programming,,Mathematician
+Person_21,BSc Mathematics,Statistics,Data Analyst Certification,Data Analyst
+Person_22,BSc Statistics,R,Data Analyst Certification,Statistician
+Person_23,BSc Chemistry,Spectroscopy,Analytical Chemistry Certification,Lab Analyst
+Person_24,BSc Physics,Simulation,Data Science Certification,Lab Assistant
+Person_25,BTech Mechanical,Manufacturing,,Design Engineer
+Person_26,BTech EE,,Certified Electrician,Electrical Engineer
+Person_27,BTech Civil,Structural Analysis,Autodesk Certified Professional,Structural Engineer
+Person_28,BTech Mechanical,Manufacturing,,Mechanical Engineer
+Person_29,BSc Mathematics,Statistics,,Mathematician
+Person_30,BTech CSE,,,Software Engineer
+Person_31,BSc Chemistry,Research,Lab Safety Certification,Chemist
+Person_32,BCA,HTML,,Web Developer
+Person_33,BSc Statistics,Data Analysis,SAS Certification,Data Analyst
+Person_34,BTech Civil,STAAD Pro,Autodesk Certified Professional,Structural Engineer
+Person_35,BTech ECE,VHDL,Embedded Systems Certification,VLSI Engineer
+Person_36,BSc Physics,Simulation,,Data Analyst
+Person_37,BCA,HTML,Full Stack Web Certification,System Analyst
+Person_38,BTech Civil,STAAD Pro,,Site Engineer
+Person_39,BTech EE,Circuit Design,Power Systems Certification,Power Engineer
+Person_40,BSc Chemistry,Lab Techniques,,Lab Analyst
+Person_41,BCA,HTML,,Web Developer
+Person_42,BTech ECE,Signal Processing,,Embedded Engineer
+Person_43,BTech CSE,,,Data Scientist
+Person_44,BCA,Python,Full Stack Web Certification,Software Developer
+Person_45,BTech CSE,Machine Learning,,Software Engineer
+Person_46,BCA,HTML,Full Stack Web Certification,System Analyst
+Person_47,BSc Chemistry,Lab Techniques,Lab Safety Certification,Research Scientist
+Person_48,BSc Statistics,R,,Data Analyst
+Person_49,BCA,,Google IT Support,System Analyst
+Person_50,BCA,Python,Full Stack Web Certification,Software Developer
+Person_51,BTech ECE,MATLAB,CCNA,Embedded Engineer
+Person_52,BSc Chemistry,Data Analysis,Lab Safety Certification,
+Person_53,BTech ECE,,CCNA,VLSI Engineer
+Person_54,BSc Statistics,Probability,Data Analyst Certification,
+Person_55,BSc Statistics,Probability,Data Analyst Certification,Statistician
+Person_56,BTech ECE,Embedded Systems,Embedded Systems Certification,Electronics Engineer
+Person_57,BTech Civil,STAAD Pro,Civil 3D Certification,Site Engineer
+Person_58,BTech CSE,,AWS Certified Developer,Software Engineer
+Person_59,BSc Statistics,Python,SAS Certification,Business Analyst
+Person_60,BSc Mathematics,Problem Solving,Actuarial Certification,Statistician
+Person_61,BTech EE,Power Systems,Certified Electrician,
+Person_62,BSc Statistics,Python,Data Analyst Certification,Data Analyst
+Person_63,BCA,Python,Full Stack Web Certification,System Analyst
+Person_64,BSc Statistics,Probability,SAS Certification,Data Analyst
+Person_65,BTech Civil,Surveying,Autodesk Certified Professional,Civil Engineer
+Person_66,BSc Statistics,Data Analysis,SAS Certification,Data Analyst
+Person_67,BTech Mechanical,Manufacturing,SolidWorks Certification,Manufacturing Engineer
+Person_68,BTech Mechanical,Thermodynamics,HVAC Design Certification,Design Engineer
+Person_69,BTech ECE,,,Electronics Engineer
+Person_70,BTech CSE,SQL,,Backend Developer
+Person_71,BTech ECE,MATLAB,Embedded Systems Certification,VLSI Engineer
+Person_72,BTech ECE,VHDL,CCNA,VLSI Engineer
+Person_73,BTech ECE,MATLAB,Embedded Systems Certification,VLSI Engineer
+Person_74,BSc Statistics,Python,SAS Certification,Statistician
+Person_75,BCA,HTML,Google IT Support,System Analyst
+Person_76,BSc Mathematics,Data Analysis,,Statistician
+Person_77,BTech Civil,Surveying,Autodesk Certified Professional,
+Person_78,BTech ECE,,CCNA,Electronics Engineer
+Person_79,BTech EE,Circuit Design,,Control Engineer
+Person_80,BTech Mechanical,,SolidWorks Certification,Manufacturing Engineer
+Person_81,BSc Chemistry,,Lab Safety Certification,Chemist
+Person_82,BTech CSE,,,Software Engineer
+Person_83,BSc Statistics,Python,SAS Certification,Business Analyst
+Person_84,BSc Chemistry,Research,Analytical Chemistry Certification,Research Scientist
+Person_85,BSc Statistics,Python,,Statistician
+Person_86,BSc Chemistry,,Lab Safety Certification,Lab Analyst
+Person_87,BCA,HTML,,System Analyst
+Person_88,BTech EE,,,
+Person_89,BTech ECE,Embedded Systems,,VLSI Engineer
+Person_90,BSc Physics,Data Analysis,,Lab Assistant
+Person_91,BTech EE,MATLAB,Certified Electrician,Electrical Engineer
+Person_92,BTech Civil,Structural Analysis,Autodesk Certified Professional,
+Person_93,BTech Mechanical,ANSYS,SolidWorks Certification,Mechanical Engineer
+Person_94,BTech Mechanical,Manufacturing,HVAC Design Certification,Manufacturing Engineer
+Person_95,BTech Civil,Surveying,,Civil Engineer
+Person_96,BTech EE,MATLAB,Power Systems Certification,Electrical Engineer
+Person_97,BSc Mathematics,Data Analysis,,
+Person_98,BSc Chemistry,,,Research Scientist
+Person_99,BCA,Python,Google IT Support,
+Person_100,BTech CSE,SQL,AWS Certified Developer,Data Scientist
+Person_101,BTech Mechanical,,,Mechanical Engineer
+Person_102,BSc Chemistry,Spectroscopy,,Chemist
+Person_103,BSc Mathematics,R Programming,,Mathematician
+Person_104,BTech Civil,AutoCAD,,Structural Engineer
+Person_105,BSc Mathematics,,,Mathematician
+Person_106,BTech Mechanical,SolidWorks,SolidWorks Certification,Mechanical Engineer
+Person_107,BTech ECE,Signal Processing,Embedded Systems Certification,Electronics Engineer
+Person_108,BTech CSE,,Oracle Java Certification,Data Scientist
+Person_109,BSc Physics,Data Analysis,Data Science Certification,Lab Assistant
+Person_110,BSc Statistics,Probability,Data Analyst Certification,Data Analyst
+Person_111,BTech ECE,Signal Processing,CCNA,Embedded Engineer
+Person_112,BTech EE,Circuit Design,,Power Engineer
+Person_113,BTech Mechanical,,SolidWorks Certification,Design Engineer
+Person_114,BSc Physics,Research,Data Science Certification,Data Analyst
+Person_115,BSc Chemistry,Lab Techniques,Analytical Chemistry Certification,Chemist
+Person_116,BTech Civil,STAAD Pro,Civil 3D Certification,
+Person_117,BSc Statistics,Python,,Business Analyst
+Person_118,BSc Physics,Research,Research Methodology,Lab Assistant
+Person_119,BTech CSE,Java,AWS Certified Developer,
+Person_120,BSc Chemistry,,Lab Safety Certification,Research Scientist
+Person_121,BCA,HTML,,System Analyst
+Person_122,BTech EE,Circuit Design,Certified Electrician,Electrical Engineer
+Person_123,BTech ECE,VHDL,CCNA,VLSI Engineer
+Person_124,BTech EE,Circuit Design,Power Systems Certification,Power Engineer
+Person_125,BTech Civil,AutoCAD,,Site Engineer
+Person_126,BTech EE,Control Systems,Power Systems Certification,Control Engineer
+Person_127,BSc Physics,,Research Methodology,Data Analyst
+Person_128,BTech ECE,Signal Processing,CCNA,VLSI Engineer
+Person_129,BSc Chemistry,Research,Lab Safety Certification,Lab Analyst
+Person_130,BSc Statistics,Python,,
+Person_131,BTech CSE,SQL,AWS Certified Developer,Data Scientist
+Person_132,BTech ECE,Embedded Systems,Embedded Systems Certification,Electronics Engineer
+Person_133,BCA,CSS,Full Stack Web Certification,Software Developer
+Person_134,BSc Physics,MATLAB,Research Methodology,Data Analyst
+Person_135,BTech CSE,Python,,Software Engineer
+Person_136,BCA,CSS,Full Stack Web Certification,System Analyst
+Person_137,BTech CSE,Python,AWS Certified Developer,Data Scientist
+Person_138,BTech EE,,,Control Engineer
+Person_139,BSc Mathematics,Problem Solving,,Mathematician
+Person_140,BTech EE,,Certified Electrician,Electrical Engineer
+Person_141,BTech Mechanical,Thermodynamics,HVAC Design Certification,Design Engineer
+Person_142,BSc Statistics,R,Data Analyst Certification,
+Person_143,BSc Statistics,Python,Data Analyst Certification,Business Analyst
+Person_144,BSc Statistics,,Data Analyst Certification,Business Analyst
+Person_145,BSc Statistics,Data Analysis,,Data Analyst
+Person_146,BSc Mathematics,Data Analysis,Data Analyst Certification,Mathematician
+Person_147,BTech CSE,,AWS Certified Developer,Data Scientist
+Person_148,BTech EE,Power Systems,,Electrical Engineer
+Person_149,BTech Mechanical,Manufacturing,HVAC Design Certification,Manufacturing Engineer
+Person_150,BTech ECE,Embedded Systems,Embedded Systems Certification,VLSI Engineer
+Person_151,BCA,CSS,,Web Developer
+Person_152,BTech Civil,AutoCAD,Autodesk Certified Professional,Site Engineer
+Person_153,BSc Chemistry,Lab Techniques,Lab Safety Certification,Chemist
+Person_154,BSc Physics,Research,Research Methodology,Lab Assistant
+Person_155,BTech Civil,AutoCAD,Autodesk Certified Professional,Civil Engineer
+Person_156,BSc Mathematics,R Programming,,Statistician
+Person_157,BSc Statistics,Python,,Data Analyst
+Person_158,BSc Statistics,Probability,Data Analyst Certification,Data Analyst
+Person_159,BTech ECE,MATLAB,CCNA,Electronics Engineer
+Person_160,BTech EE,Power Systems,Certified Electrician,Power Engineer
+Person_161,BTech EE,Control Systems,Certified Electrician,Control Engineer
+Person_162,BSc Mathematics,Data Analysis,Data Analyst Certification,Data Analyst
+Person_163,BCA,HTML,Google IT Support,Software Developer
+Person_164,BTech ECE,Embedded Systems,Embedded Systems Certification,
+Person_165,BTech Civil,STAAD Pro,Civil 3D Certification,Site Engineer
+Person_166,BCA,JavaScript,Full Stack Web Certification,Web Developer
+Person_167,BCA,,Google IT Support,System Analyst
+Person_168,BTech Civil,STAAD Pro,Civil 3D Certification,Structural Engineer
+Person_169,BTech EE,,Certified Electrician,Control Engineer
+Person_170,BTech EE,,Power Systems Certification,Control Engineer
+Person_171,BTech EE,Circuit Design,,Power Engineer
+Person_172,BSc Chemistry,Spectroscopy,Lab Safety Certification,Chemist
+Person_173,BTech ECE,,,Electronics Engineer
+Person_174,BSc Statistics,Data Analysis,SAS Certification,Business Analyst
+Person_175,BTech CSE,Python,Oracle Java Certification,Backend Developer
+Person_176,BTech ECE,MATLAB,Embedded Systems Certification,VLSI Engineer
+Person_177,BSc Chemistry,Data Analysis,,Lab Analyst
+Person_178,BTech ECE,,,Electronics Engineer
+Person_179,BTech EE,Control Systems,Power Systems Certification,Electrical Engineer
+Person_180,BTech EE,,Certified Electrician,Electrical Engineer
+Person_181,BTech ECE,MATLAB,CCNA,
+Person_182,BSc Chemistry,Spectroscopy,Lab Safety Certification,Lab Analyst
+Person_183,BTech Mechanical,Manufacturing,SolidWorks Certification,Manufacturing Engineer
+Person_184,BSc Mathematics,Data Analysis,Data Analyst Certification,Data Analyst
+Person_185,BTech EE,,,Electrical Engineer
+Person_186,BSc Statistics,Probability,Data Analyst Certification,Data Analyst
+Person_187,BCA,HTML,Full Stack Web Certification,Software Developer
+Person_188,BSc Statistics,Python,SAS Certification,Business Analyst
+Person_189,BTech CSE,SQL,AWS Certified Developer,Data Scientist
+Person_190,BSc Mathematics,Data Analysis,Actuarial Certification,Mathematician
+Person_191,BTech ECE,MATLAB,CCNA,VLSI Engineer
+Person_192,BSc Physics,MATLAB,Research Methodology,Lab Assistant
+Person_193,BTech CSE,,Oracle Java Certification,Data Scientist
+Person_194,BSc Physics,Research,Data Science Certification,Lab Assistant
+Person_195,BSc Physics,Data Analysis,Research Methodology,Lab Assistant
+Person_196,BTech ECE,,,Electronics Engineer
+Person_197,BSc Statistics,R,SAS Certification,
+Person_198,BSc Statistics,,Data Analyst Certification,Data Analyst
+Person_199,BTech CSE,SQL,,Software Engineer
+Person_200,BTech Mechanical,ANSYS,,Manufacturing Engineer
+Person_201,BSc Mathematics,Statistics,Actuarial Certification,Mathematician
+Person_202,BTech Mechanical,SolidWorks,SolidWorks Certification,Manufacturing Engineer
+Person_203,BSc Mathematics,Problem Solving,Actuarial Certification,
+Person_204,BTech Mechanical,Manufacturing,,Design Engineer
+Person_205,BSc Chemistry,Lab Techniques,,Chemist
+Person_206,BTech CSE,Java,Oracle Java Certification,Data Scientist
+Person_207,BSc Physics,Data Analysis,Research Methodology,Research Scientist
+Person_208,BTech EE,Control Systems,Certified Electrician,Electrical Engineer
+Person_209,BTech Mechanical,Manufacturing,,Design Engineer
+Person_210,BTech Civil,,Autodesk Certified Professional,Structural Engineer
+Person_211,BTech CSE,Machine Learning,Oracle Java Certification,Software Engineer
+Person_212,BTech Civil,Structural Analysis,Autodesk Certified Professional,Civil Engineer
+Person_213,BTech CSE,SQL,AWS Certified Developer,Software Engineer
+Person_214,BTech CSE,Machine Learning,Oracle Java Certification,Software Engineer
+Person_215,BTech Mechanical,,HVAC Design Certification,Mechanical Engineer
+Person_216,BSc Mathematics,R Programming,Data Analyst Certification,Data Analyst
+Person_217,BCA,HTML,Full Stack Web Certification,Web Developer
+Person_218,BSc Statistics,,,Statistician
+Person_219,BSc Mathematics,,Actuarial Certification,Data Analyst
+Person_220,BSc Mathematics,Statistics,Actuarial Certification,Mathematician
+Person_221,BSc Statistics,,SAS Certification,Business Analyst
+Person_222,BSc Physics,Research,Data Science Certification,Data Analyst
+Person_223,BTech EE,Power Systems,,Electrical Engineer
+Person_224,BSc Mathematics,Statistics,Actuarial Certification,
+Person_225,BSc Chemistry,Research,,Research Scientist
+Person_226,BSc Physics,Data Analysis,Research Methodology,Research Scientist
+Person_227,BSc Statistics,R,Data Analyst Certification,Data Analyst
+Person_228,BSc Physics,Research,,Lab Assistant
+Person_229,BTech EE,Control Systems,Power Systems Certification,Control Engineer
+Person_230,BTech Mechanical,ANSYS,HVAC Design Certification,Design Engineer
+Person_231,BSc Physics,Data Analysis,Research Methodology,Research Scientist
+Person_232,BSc Statistics,Data Analysis,Data Analyst Certification,Data Analyst
+Person_233,BSc Mathematics,R Programming,Data Analyst Certification,Statistician
+Person_234,BCA,CSS,,System Analyst
+Person_235,BTech Civil,,Civil 3D Certification,Structural Engineer
+Person_236,BSc Mathematics,Statistics,Data Analyst Certification,Statistician
+Person_237,BSc Physics,Data Analysis,Data Science Certification,Research Scientist
+Person_238,BSc Chemistry,Lab Techniques,Lab Safety Certification,Chemist
+Person_239,BSc Mathematics,,Data Analyst Certification,Statistician
+Person_240,BSc Physics,MATLAB,Data Science Certification,Research Scientist
+Person_241,BCA,CSS,Google IT Support,Software Developer
+Person_242,BTech EE,MATLAB,Certified Electrician,Control Engineer
+Person_243,BTech Mechanical,SolidWorks,,Manufacturing Engineer
+Person_244,BSc Physics,Data Analysis,,
+Person_245,BTech ECE,,CCNA,Embedded Engineer
+Person_246,BTech Mechanical,SolidWorks,,Manufacturing Engineer
+Person_247,BCA,Python,Full Stack Web Certification,System Analyst
+Person_248,BSc Mathematics,,Data Analyst Certification,Mathematician
+Person_249,BSc Mathematics,Problem Solving,Actuarial Certification,Data Analyst
+Person_250,BSc Mathematics,Problem Solving,Data Analyst Certification,
+Person_251,BTech EE,MATLAB,,
+Person_252,BTech EE,MATLAB,Power Systems Certification,Electrical Engineer
+Person_253,BTech EE,Power Systems,Certified Electrician,Power Engineer
+Person_254,BTech Mechanical,SolidWorks,HVAC Design Certification,Mechanical Engineer
+Person_255,BTech CSE,Machine Learning,,Data Scientist
+Person_256,BTech EE,,Power Systems Certification,Power Engineer
+Person_257,BSc Statistics,Python,,Business Analyst
+Person_258,BTech EE,Circuit Design,Certified Electrician,Electrical Engineer
+Person_259,BSc Chemistry,Spectroscopy,,Lab Analyst
+Person_260,BSc Mathematics,Problem Solving,,Data Analyst
+Person_261,BSc Statistics,Probability,Data Analyst Certification,Business Analyst
+Person_262,BTech ECE,Embedded Systems,Embedded Systems Certification,Electronics Engineer
+Person_263,BCA,CSS,Full Stack Web Certification,Web Developer
+Person_264,BTech EE,Circuit Design,,Electrical Engineer
+Person_265,BTech Civil,STAAD Pro,Autodesk Certified Professional,Civil Engineer
+Person_266,BSc Statistics,,,Statistician
+Person_267,BTech CSE,Machine Learning,AWS Certified Developer,Backend Developer
+Person_268,BSc Chemistry,Lab Techniques,Analytical Chemistry Certification,Research Scientist
+Person_269,BTech CSE,Java,AWS Certified Developer,Software Engineer
+Person_270,BTech Civil,STAAD Pro,Civil 3D Certification,Structural Engineer
+Person_271,BSc Physics,Research,Data Science Certification,
+Person_272,BCA,,Full Stack Web Certification,System Analyst
+Person_273,BTech ECE,,,VLSI Engineer
+Person_274,BTech CSE,,AWS Certified Developer,Software Engineer
+Person_275,BSc Physics,,,Lab Assistant
+Person_276,BTech EE,Power Systems,Power Systems Certification,Control Engineer
+Person_277,BTech Mechanical,Manufacturing,HVAC Design Certification,Design Engineer
+Person_278,BTech Mechanical,ANSYS,HVAC Design Certification,Design Engineer
+Person_279,BTech EE,Control Systems,Power Systems Certification,Control Engineer
+Person_280,BTech ECE,,Embedded Systems Certification,Embedded Engineer
+Person_281,BSc Mathematics,Statistics,,Data Analyst
+Person_282,BSc Mathematics,Problem Solving,,Mathematician
+Person_283,BSc Statistics,Data Analysis,,
+Person_284,BSc Statistics,Probability,SAS Certification,Data Analyst
+Person_285,BSc Physics,Simulation,,
+Person_286,BTech Civil,Structural Analysis,Civil 3D Certification,Site Engineer
+Person_287,BTech ECE,,CCNA,Embedded Engineer
+Person_288,BTech Mechanical,,HVAC Design Certification,Mechanical Engineer
+Person_289,BTech ECE,MATLAB,CCNA,VLSI Engineer
+Person_290,BSc Chemistry,Lab Techniques,,Lab Analyst
+Person_291,BTech ECE,,,Electronics Engineer
+Person_292,BTech Civil,Surveying,Civil 3D Certification,Civil Engineer
+Person_293,BTech CSE,SQL,Oracle Java Certification,Software Engineer
+Person_294,BSc Chemistry,,Lab Safety Certification,Lab Analyst
+Person_295,BSc Statistics,,SAS Certification,Business Analyst
+Person_296,BSc Statistics,Data Analysis,Data Analyst Certification,Statistician
+Person_297,BCA,JavaScript,,Software Developer
+Person_298,BTech EE,Control Systems,Power Systems Certification,Electrical Engineer
+Person_299,BSc Mathematics,Problem Solving,Actuarial Certification,Data Analyst
+Person_300,BTech CSE,SQL,AWS Certified Developer,Backend Developer
+Person_301,BTech CSE,SQL,AWS Certified Developer,Backend Developer
+Person_302,BTech EE,MATLAB,Certified Electrician,Power Engineer
+Person_303,BTech CSE,Java,,Data Scientist
+Person_304,BSc Physics,Research,,Data Analyst
+Person_305,BSc Statistics,,SAS Certification,Data Analyst
+Person_306,BSc Physics,Research,Data Science Certification,Research Scientist
+Person_307,BSc Mathematics,,Actuarial Certification,Statistician
+Person_308,BTech CSE,Java,,Software Engineer
+Person_309,BTech CSE,Machine Learning,AWS Certified Developer,Data Scientist
+Person_310,BSc Mathematics,,Actuarial Certification,Statistician
+Person_311,BSc Physics,,Data Science Certification,Research Scientist
+Person_312,BTech ECE,Embedded Systems,,Electronics Engineer
+Person_313,BSc Mathematics,Statistics,Data Analyst Certification,Statistician
+Person_314,BTech ECE,,,Electronics Engineer
+Person_315,BSc Chemistry,Spectroscopy,Analytical Chemistry Certification,Lab Analyst
+Person_316,BTech EE,,,
+Person_317,BTech Mechanical,Manufacturing,,
+Person_318,BTech EE,,Power Systems Certification,Electrical Engineer
+Person_319,BSc Statistics,R,,Statistician
+Person_320,BTech Civil,AutoCAD,,Civil Engineer
+Person_321,BSc Physics,Data Analysis,Data Science Certification,Research Scientist
+Person_322,BTech Civil,Surveying,Autodesk Certified Professional,Structural Engineer
+Person_323,BTech ECE,VHDL,,Embedded Engineer
+Person_324,BSc Chemistry,Lab Techniques,Lab Safety Certification,Lab Analyst
+Person_325,BTech Civil,AutoCAD,Autodesk Certified Professional,Structural Engineer
+Person_326,BTech Civil,Structural Analysis,Civil 3D Certification,Civil Engineer
+Person_327,BSc Physics,MATLAB,Research Methodology,Research Scientist
+Person_328,BTech Mechanical,,HVAC Design Certification,Mechanical Engineer
+Person_329,BTech ECE,Signal Processing,CCNA,Embedded Engineer
+Person_330,BSc Mathematics,,,Statistician
+Person_331,BSc Mathematics,,Data Analyst Certification,Mathematician
+Person_332,BCA,CSS,Full Stack Web Certification,Software Developer
+Person_333,BTech CSE,,AWS Certified Developer,Backend Developer
+Person_334,BSc Mathematics,Statistics,Actuarial Certification,Data Analyst
+Person_335,BTech Mechanical,ANSYS,,Design Engineer
+Person_336,BTech ECE,Embedded Systems,,VLSI Engineer
+Person_337,BTech EE,MATLAB,Certified Electrician,Power Engineer
+Person_338,BTech Mechanical,SolidWorks,,Design Engineer
+Person_339,BTech ECE,Signal Processing,Embedded Systems Certification,
+Person_340,BTech EE,MATLAB,,Power Engineer
+Person_341,BTech EE,MATLAB,,Electrical Engineer
+Person_342,BTech CSE,Machine Learning,AWS Certified Developer,Backend Developer
+Person_343,BTech Mechanical,Thermodynamics,SolidWorks Certification,Mechanical Engineer
+Person_344,BTech ECE,Embedded Systems,Embedded Systems Certification,Electronics Engineer
+Person_345,BSc Mathematics,Data Analysis,Data Analyst Certification,Data Analyst
+Person_346,BSc Chemistry,,Lab Safety Certification,
+Person_347,BTech EE,,Power Systems Certification,Control Engineer
+Person_348,BTech Civil,Structural Analysis,Autodesk Certified Professional,Civil Engineer
+Person_349,BSc Chemistry,Spectroscopy,Lab Safety Certification,Lab Analyst
+Person_350,BTech EE,Circuit Design,Power Systems Certification,Control Engineer
+Person_351,BSc Chemistry,Lab Techniques,,Research Scientist
+Person_352,BSc Statistics,,SAS Certification,Data Analyst
+Person_353,BTech Civil,Surveying,Autodesk Certified Professional,Structural Engineer
+Person_354,BTech CSE,SQL,Oracle Java Certification,Backend Developer
+Person_355,BCA,HTML,,System Analyst
+Person_356,BCA,JavaScript,,Software Developer
+Person_357,BSc Physics,,Data Science Certification,Data Analyst
+Person_358,BSc Physics,,Data Science Certification,Lab Assistant
+Person_359,BTech ECE,MATLAB,Embedded Systems Certification,Electronics Engineer
+Person_360,BSc Mathematics,R Programming,Actuarial Certification,
+Person_361,BSc Chemistry,,Lab Safety Certification,Research Scientist
+Person_362,BSc Chemistry,Research,Lab Safety Certification,
+Person_363,BSc Statistics,Data Analysis,Data Analyst Certification,Statistician
+Person_364,BTech ECE,,Embedded Systems Certification,Embedded Engineer
+Person_365,BTech ECE,Signal Processing,Embedded Systems Certification,VLSI Engineer
+Person_366,BTech ECE,Embedded Systems,Embedded Systems Certification,Electronics Engineer
+Person_367,BTech ECE,Embedded Systems,CCNA,Electronics Engineer
+Person_368,BSc Statistics,Probability,,Statistician
+Person_369,BSc Physics,Research,Data Science Certification,Data Analyst
+Person_370,BTech EE,Circuit Design,Power Systems Certification,Electrical Engineer
+Person_371,BTech CSE,Python,,Software Engineer
+Person_372,BTech Mechanical,ANSYS,HVAC Design Certification,Manufacturing Engineer
+Person_373,BTech Civil,,,Civil Engineer
+Person_374,BTech Civil,Surveying,Autodesk Certified Professional,Site Engineer
+Person_375,BSc Statistics,Data Analysis,SAS Certification,Business Analyst
+Person_376,BSc Statistics,Data Analysis,Data Analyst Certification,Statistician
+Person_377,BTech EE,,,
+Person_378,BSc Physics,Simulation,Research Methodology,Data Analyst
+Person_379,BTech CSE,SQL,Oracle Java Certification,Software Engineer
+Person_380,BTech CSE,Python,,Backend Developer
+Person_381,BCA,JavaScript,,System Analyst
+Person_382,BTech CSE,,Oracle Java Certification,Backend Developer
+Person_383,BTech Mechanical,Thermodynamics,HVAC Design Certification,Manufacturing Engineer
+Person_384,BSc Mathematics,Data Analysis,,Mathematician
+Person_385,BTech Civil,,Autodesk Certified Professional,
+Person_386,BCA,CSS,Google IT Support,Web Developer
+Person_387,BTech Mechanical,,HVAC Design Certification,Manufacturing Engineer
+Person_388,BSc Chemistry,Data Analysis,Analytical Chemistry Certification,Lab Analyst
+Person_389,BSc Physics,Data Analysis,Data Science Certification,Data Analyst
+Person_390,BSc Mathematics,Statistics,,Data Analyst
+Person_391,BSc Physics,Data Analysis,Research Methodology,Data Analyst
+Person_392,BTech CSE,,,Software Engineer
+Person_393,BSc Chemistry,Data Analysis,Lab Safety Certification,Lab Analyst
+Person_394,BTech Civil,STAAD Pro,Civil 3D Certification,Civil Engineer
+Person_395,BTech Civil,AutoCAD,,Site Engineer
+Person_396,BSc Statistics,,,Business Analyst
+Person_397,BCA,,,Software Developer
+Person_398,BSc Chemistry,Lab Techniques,Lab Safety Certification,Chemist
+Person_399,BCA,Python,Google IT Support,Software Developer
+Person_400,BTech Civil,,,Site Engineer
+Person_401,BTech EE,,Certified Electrician,Control Engineer
+Person_402,BSc Chemistry,Spectroscopy,Analytical Chemistry Certification,Lab Analyst
+Person_403,BCA,Python,Google IT Support,System Analyst
+Person_404,BCA,JavaScript,,Software Developer
+Person_405,BSc Statistics,Probability,,Statistician
+Person_406,BTech ECE,Signal Processing,,Embedded Engineer
+Person_407,BSc Physics,MATLAB,Research Methodology,
+Person_408,BSc Mathematics,Statistics,Actuarial Certification,Data Analyst
+Person_409,BSc Mathematics,Data Analysis,Data Analyst Certification,Statistician
+Person_410,BTech Civil,STAAD Pro,Autodesk Certified Professional,Civil Engineer
+Person_411,BTech ECE,Signal Processing,CCNA,Electronics Engineer
+Person_412,BTech ECE,VHDL,Embedded Systems Certification,Embedded Engineer
+Person_413,BSc Physics,MATLAB,Data Science Certification,Lab Assistant
+Person_414,BTech Civil,AutoCAD,Civil 3D Certification,Site Engineer
+Person_415,BSc Physics,Research,,Research Scientist
+Person_416,BSc Chemistry,,Lab Safety Certification,Lab Analyst
+Person_417,BSc Chemistry,Data Analysis,Analytical Chemistry Certification,Chemist
+Person_418,BTech Civil,,Civil 3D Certification,Structural Engineer
+Person_419,BTech CSE,Machine Learning,AWS Certified Developer,
+Person_420,BSc Physics,MATLAB,Research Methodology,Research Scientist
+Person_421,BTech Mechanical,Thermodynamics,,Mechanical Engineer
+Person_422,BSc Physics,MATLAB,,Lab Assistant
+Person_423,BSc Physics,Simulation,,Lab Assistant
+Person_424,BTech EE,Circuit Design,Certified Electrician,Electrical Engineer
+Person_425,BSc Physics,Research,,Research Scientist
+Person_426,BTech CSE,Python,AWS Certified Developer,Backend Developer
+Person_427,BTech CSE,Machine Learning,AWS Certified Developer,Data Scientist
+Person_428,BTech Mechanical,,HVAC Design Certification,Mechanical Engineer
+Person_429,BTech EE,Circuit Design,Certified Electrician,Control Engineer
+Person_430,BTech Mechanical,Thermodynamics,SolidWorks Certification,Design Engineer
+Person_431,BTech Civil,,Autodesk Certified Professional,
+Person_432,BSc Mathematics,Data Analysis,Data Analyst Certification,Statistician
+Person_433,BTech EE,,Power Systems Certification,Control Engineer
+Person_434,BTech Mechanical,Thermodynamics,,
+Person_435,BSc Chemistry,Research,Analytical Chemistry Certification,Research Scientist
+Person_436,BTech CSE,,Oracle Java Certification,Software Engineer
+Person_437,BSc Statistics,Data Analysis,,Data Analyst
+Person_438,BTech ECE,MATLAB,CCNA,Embedded Engineer
+Person_439,BTech Mechanical,Manufacturing,HVAC Design Certification,Manufacturing Engineer
+Person_440,BTech CSE,Machine Learning,AWS Certified Developer,Data Scientist
+Person_441,BSc Physics,Data Analysis,Research Methodology,Research Scientist
+Person_442,BSc Chemistry,,Analytical Chemistry Certification,
+Person_443,BTech Civil,,,Site Engineer
+Person_444,BSc Chemistry,Data Analysis,,Research Scientist
+Person_445,BSc Mathematics,Statistics,,Mathematician
+Person_446,BSc Mathematics,,Data Analyst Certification,Statistician
+Person_447,BTech Mechanical,ANSYS,HVAC Design Certification,Mechanical Engineer
+Person_448,BCA,HTML,Full Stack Web Certification,System Analyst
+Person_449,BSc Mathematics,,Actuarial Certification,Mathematician
+Person_450,BTech Civil,Structural Analysis,Autodesk Certified Professional,Structural Engineer
+Person_451,BSc Physics,Simulation,Data Science Certification,Data Analyst
+Person_452,BSc Chemistry,Data Analysis,Lab Safety Certification,Research Scientist
+Person_453,BTech CSE,Machine Learning,,Software Engineer
+Person_454,BTech ECE,Signal Processing,Embedded Systems Certification,
+Person_455,BTech Mechanical,ANSYS,,Mechanical Engineer
+Person_456,BSc Statistics,Probability,SAS Certification,Statistician
+Person_457,BTech Civil,STAAD Pro,,Structural Engineer
+Person_458,BSc Mathematics,Problem Solving,Actuarial Certification,Mathematician
+Person_459,BTech CSE,SQL,AWS Certified Developer,Data Scientist
+Person_460,BTech ECE,,CCNA,
+Person_461,BTech EE,MATLAB,,Power Engineer
+Person_462,BSc Chemistry,,,Lab Analyst
+Person_463,BSc Mathematics,Statistics,,Data Analyst
+Person_464,BTech Mechanical,SolidWorks,HVAC Design Certification,
+Person_465,BTech EE,Circuit Design,Power Systems Certification,Power Engineer
+Person_466,BTech EE,Circuit Design,Power Systems Certification,Power Engineer
+Person_467,BSc Statistics,Python,SAS Certification,Data Analyst
+Person_468,BSc Chemistry,Spectroscopy,Analytical Chemistry Certification,Chemist
+Person_469,BSc Chemistry,Data Analysis,Lab Safety Certification,
+Person_470,BSc Physics,MATLAB,,Research Scientist
+Person_471,BTech ECE,MATLAB,Embedded Systems Certification,Embedded Engineer
+Person_472,BSc Physics,,Data Science Certification,Data Analyst
+Person_473,BTech ECE,Signal Processing,CCNA,VLSI Engineer
+Person_474,BTech EE,Circuit Design,Certified Electrician,Electrical Engineer
+Person_475,BTech Mechanical,Thermodynamics,HVAC Design Certification,Mechanical Engineer
+Person_476,BSc Physics,,Research Methodology,Lab Assistant
+Person_477,BTech Civil,Surveying,Civil 3D Certification,Structural Engineer
+Person_478,BTech EE,Power Systems,,Control Engineer
+Person_479,BSc Statistics,Python,,Statistician
+Person_480,BTech EE,Circuit Design,,Control Engineer
+Person_481,BSc Statistics,Data Analysis,Data Analyst Certification,Statistician
+Person_482,BTech ECE,VHDL,Embedded Systems Certification,Embedded Engineer
+Person_483,BTech ECE,,Embedded Systems Certification,Embedded Engineer
+Person_484,BSc Statistics,Probability,,Data Analyst
+Person_485,BSc Statistics,R,Data Analyst Certification,Data Analyst
+Person_486,BTech Mechanical,ANSYS,HVAC Design Certification,Manufacturing Engineer
+Person_487,BTech Civil,AutoCAD,Civil 3D Certification,Civil Engineer
+Person_488,BTech EE,Control Systems,,Electrical Engineer
+Person_489,BSc Physics,,Data Science Certification,Lab Assistant
+Person_490,BTech ECE,Embedded Systems,CCNA,Embedded Engineer
+Person_491,BSc Mathematics,R Programming,Data Analyst Certification,Statistician
+Person_492,BTech Mechanical,Manufacturing,HVAC Design Certification,Mechanical Engineer
+Person_493,BCA,HTML,Google IT Support,System Analyst
+Person_494,BSc Mathematics,Problem Solving,Actuarial Certification,Statistician
+Person_495,BSc Physics,MATLAB,Research Methodology,Data Analyst
+Person_496,BSc Physics,Data Analysis,Research Methodology,Research Scientist
+Person_497,BTech CSE,,AWS Certified Developer,Backend Developer
+Person_498,BSc Chemistry,Spectroscopy,,
+Person_499,BTech ECE,,,Electronics Engineer
+Person_500,BTech ECE,Embedded Systems,Embedded Systems Certification,Electronics Engineer
